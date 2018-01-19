@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace VSGitDemo6
 {
-    class Program
+    class Feature1
     {
-        static void Main(string[] args)
-        {
-            //New addition
-            //Code to call Feature1 
-        }
+        
     }
 }
